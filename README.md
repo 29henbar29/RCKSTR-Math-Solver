@@ -4,6 +4,9 @@
 
 The **RCKSTR Math Solver** is a web-based tool designed to solve various mathematical problems. It offers solutions for general math expressions, as well as specific calculations such as circle area, square area, compound shape area, and compound shape perimeter. The tool also features a dark mode for better visibility in low-light conditions and a virtual keypad for inserting special mathematical symbols.
 
+## Run The Solver
+To start the server, clcik on the green "code" button at the top of the page, click "codespaces" and then click "create codespace on main" Wait for the codespace to configure, and then in the terminal type "python app.py" and hit enter. There will be a little popup in the bottom right corner of the scree, click on "open in browser" and you're in.
+
 ## Features
 
 - **Math Solver**: Solve general mathematical expressions.
